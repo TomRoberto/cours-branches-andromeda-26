@@ -17,6 +17,7 @@ function App() {
         </section>
         <p>Hello</p>
       </main>
+      <div>Ceci est un footer</div>
     </>
   );
 }
