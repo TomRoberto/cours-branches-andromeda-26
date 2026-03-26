@@ -18,7 +18,7 @@ function App() {
         <p>Hello</p>
       </main>
       <div style={{ backgroundColor: "pink" }}>
-        Ceci est un footer qui est plus beau que celui de Tom !
+        Ceci est un footer qui est plus beau que celui de Tom ! J'aime bien les pâtes avec du ketchup.
       </div>
     </>
   );
