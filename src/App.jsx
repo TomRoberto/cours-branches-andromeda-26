@@ -17,7 +17,9 @@ function App() {
         </section>
         <p>Hello</p>
       </main>
-      <div>Coucou je suis Tom et j'aime bine les pâtes avec du ketchup.</div>
+      <div style={{ backgroundColor: "pink" }}>
+        Ceci est un footer qui est plus beau que celui de Tom ! J'aime bien les pâtes avec du ketchup.
+      </div>
     </>
   );
 }
