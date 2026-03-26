@@ -11,6 +11,10 @@ function App() {
           <h3>La section de Tom</h3>
           <p>J'ai bien travaillé ajd</p>
         </section>
+        <section style={{ backgroundColor: "greenyellow" }}>
+          <h3>La deuxième section de Tom</h3>
+          <p>J'ai bien travaillé ajd</p>
+        </section>
       </main>
     </>
   );
