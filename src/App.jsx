@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <Header />
+      <main>
+        <h2 style={{ backgroundColor: "gold" }}>Coucou tout le monde</h2>
+      </main>
     </>
   );
 }
